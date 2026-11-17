@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=220&section=header&text=Pamod%20Chandula%20Peiris&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Solutions%20Architect&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=220&section=header&text=Pamod%20Peiris&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Solutions%20Architect&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ```csharp
 public sealed record Developer
 {
-    public string   Name      => "Pamod Chandula Peiris";
+    public string   Name      => "Pamod Peiris";
     public string   Location  => "Colombo, Sri Lanka 🇱🇰";
     public string   Role      => "Full-Stack Developer & Solutions Architect @ Thinkcube";
     public string   Education => "Computer Engineering — The Open University of Sri Lanka";
